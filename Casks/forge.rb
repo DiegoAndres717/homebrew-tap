@@ -1,6 +1,6 @@
 cask "forge" do
-  version "0.17.4"
-  sha256 "5e1c2a5a6c0669e0fc75db4814210b18c533473c3d935f890ffb1dcbbdfa94c0"
+  version "0.17.5"
+  sha256 "967e01f153ffd55999c444c5cca4e3d82c0339ee7422a977e6ea461cb776bc45"
 
   url "https://github.com/DiegoAndres717/forge/releases/download/v#{version}/Forge-#{version}.dmg"
   name "Forge"
